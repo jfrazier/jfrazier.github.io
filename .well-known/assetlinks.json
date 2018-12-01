@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jfrazier.instantapp",
+    "sha256_cert_fingerprints":
+    ["38:EB:59:A4:0E:18:05:69:84:3B:67:63:00:83:36:A1:ED:2E:DE:53:11:A5:D5:00:FC:D1:23:03:49:3B:4D:C3"]
+  }
+}]
